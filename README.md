@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - 🌍 I'm a fan of the **JavaScript** world
 - 💻 I studied a CFGS in Web Application Development
 - 🎓 I am currently studying Computer Engineering online at UOC (Universitat Oberta de Catalunya)
--  You can check my work experience: [linkedin.com/in/acarmonabelmonte](https://www.linkedin.com/in/acarmonabelmonte/)
+- 👀 You can check my work experience: [linkedin.com/in/acarmonabelmonte](https://www.linkedin.com/in/acarmonabelmonte/)
 - 📫 Reach me: [twitter.com/acarmonadev](https://twitter.com/acarmonadev) & [instagram.com/acarmonabelmonte](https://instagram.com/acarmonabelmonte)
