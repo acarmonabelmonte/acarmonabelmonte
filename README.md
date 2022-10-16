@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - ☕ I convert coffee into code
 - 🌍 I'm a fan of the **JavaScript** world
 - 💻 I studied a CFGS in Web Application Development
-- 🎓 I am currently studying Graphic Design and Digital Creation online at UOC (Universitat Oberta de Catalunya)
 - 👀 You can check my work experience: [linkedin.com/in/acarmonabelmonte](https://www.linkedin.com/in/acarmonabelmonte/)
