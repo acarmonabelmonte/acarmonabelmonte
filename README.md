@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - 💻 I studied a CFGS in Web Application Development
 - 🎓 I am currently studying Graphic Design and Digital Creation online at UOC (Universitat Oberta de Catalunya)
 - 👀 You can check my work experience: [linkedin.com/in/acarmonabelmonte](https://www.linkedin.com/in/acarmonabelmonte/)
-- 📫 Reach me: [twitter.com/acarmonadev](https://twitter.com/acarmonadev) & [instagram.com/acarmonabelmonte](https://instagram.com/acarmonabelmonte)
