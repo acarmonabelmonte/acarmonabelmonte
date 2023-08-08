@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm a Front-End Developer from Mallorca 🌴, Spain.
 
-- ⚙️ I use daily: `.js`, `.vue`, `.html`, `.css`
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.vue`, `.html`, `.css`
 - ☕ I convert coffee into code
 - 🌍 I'm a fan of the **JavaScript** world
 - 💻 I studied a CFGS in Web Application Development
